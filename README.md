@@ -10,8 +10,6 @@ import tkinter as tk
 from tkinter import filedialog
 import threading
 
-from matplotlib.pyplot import draw
-
 canvas_width = 500 
 canvas_height = 500
 

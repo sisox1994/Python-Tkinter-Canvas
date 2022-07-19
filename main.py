@@ -1,11 +1,13 @@
+# Windows 10 64-bit
+# Python 3.9.7 
+# 用 Python Tkinter Canvas 寫一個簡單的繪圖Demo
 # 參考1 https://www.hashbangcode.com/article/using-events-tkinter-canvas-elements-python
 # 參考2 https://shengyu7697.github.io/python-tkinter-canvas/
+
+
 import tkinter as tk
 from tkinter import filedialog
 import threading
-import time
-
-from matplotlib.pyplot import draw
 
 canvas_width = 500 
 canvas_height = 500
